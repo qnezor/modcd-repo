@@ -1,6 +1,9 @@
 # modcd-repo
 Сторонний репозиторий для [ModCD](https://github.com/kawaii-flesh/ModCD)
 
+## Ссылка на репозиторий
+https://nx.qnezor.ru/modcd.json
+
 ## Список доступных модификаций
 | Название игры | Тип мода |
 | - | - |
